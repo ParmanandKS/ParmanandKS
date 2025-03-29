@@ -35,7 +35,7 @@
 💬 Ping me if you have exciting challenges!  
 
 📫 **Reach Me At:**  
-[![LinkedIn](https://www.linkedin.com/in/parmanand-kumar-76687126a/)  
+[![LinkedIn](www.linkedin.com/in/parmanand-kumar-76687126a)  
 [![GitHub](https://github.com/ParmanandKS)  
 
 ---
