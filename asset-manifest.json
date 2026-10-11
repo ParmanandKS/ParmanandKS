@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ParmanandKS/static/css/main.6fccd513.css",
-    "main.js": "/ParmanandKS/static/js/main.f837c01c.js",
+    "main.js": "/ParmanandKS/static/js/main.2a6f87b3.js",
     "index.html": "/ParmanandKS/index.html",
     "main.6fccd513.css.map": "/ParmanandKS/static/css/main.6fccd513.css.map",
-    "main.f837c01c.js.map": "/ParmanandKS/static/js/main.f837c01c.js.map"
+    "main.2a6f87b3.js.map": "/ParmanandKS/static/js/main.2a6f87b3.js.map"
   },
   "entrypoints": [
     "static/css/main.6fccd513.css",
-    "static/js/main.f837c01c.js"
+    "static/js/main.2a6f87b3.js"
   ]
 }
