@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ParmanandKS/static/css/main.6fccd513.css",
+    "main.js": "/ParmanandKS/static/js/main.f837c01c.js",
+    "index.html": "/ParmanandKS/index.html",
+    "main.6fccd513.css.map": "/ParmanandKS/static/css/main.6fccd513.css.map",
+    "main.f837c01c.js.map": "/ParmanandKS/static/js/main.f837c01c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fccd513.css",
+    "static/js/main.f837c01c.js"
+  ]
+}
